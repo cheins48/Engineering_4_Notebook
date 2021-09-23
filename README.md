@@ -24,7 +24,7 @@ In this assignment i had to make a calculator solve quadratics in python.
 
 ### Evidence 
 
-https://github.com/cheins48/Engineering_4_Notebook/blob/main/quadproof.PNG?raw=true
+(https://github.com/cheins48/Engineering_4_Notebook/blob/main/quadproof.PNG?raw=true)
 
 
 ### Reflection
