@@ -1,10 +1,11 @@
 # Engineering_4_Notebook
 
+<details><summary>Calculator</summary>
 ### Calculator
 
 ### Assignment Description
 
-In this assignment i had to make a calculator in python.  
+In this assignment we were tasked with creating a program that can succsessfully solve math problems like a calculator.  In fact, I'm pretty sure I created a calculator. 
 
 ### Evidence 
 
@@ -14,7 +15,9 @@ In this assignment i had to make a calculator in python.
 
 ### Reflection
 
-this assignment was hard because i dont know math good, and me no code good.  so difficult.
+This assignment gave me a rude awakening that I probably should have payed more attention in online schooling last year.  In hindsight it was rather easy as the "DoMath" function was doing most of the heavy lifting.  
+  
+</details>
 
 ### Quadratic Calculator
 
