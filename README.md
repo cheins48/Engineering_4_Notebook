@@ -96,4 +96,4 @@ similar to the first calculator assignment, I had to go through a small period o
   
   the wheels I started to get a little board, so I went on a journey making my own skate company named "indestructable" and wanted to put the name on the wheels.  the issue I ran into was fgetting the text to be in a circular pattern, so I learned how to import a text editing tool from the onshape public library called "surface text." I had never realized before doing this how usful these tools that other people made in onshape can be, I really felt that my skill grew after making indestructable. 
 
-<details>
+</details>
