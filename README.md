@@ -80,5 +80,12 @@ similar to the first calculator assignment, I had to go through a small period o
 
   </details>
   
+  <details><summary>Skamtbord</summary>
+  
   ![image](https://user-images.githubusercontent.com/57536671/139074585-23d387d7-4d63-4781-bdf5-32b7a2788c5e.png)
+  
+![image](https://user-images.githubusercontent.com/57536671/139075293-0b2add71-814f-4dfe-8459-2f2e1cdc0550.png)
 
+![image](https://user-images.githubusercontent.com/57536671/139075344-a6c4f639-0d57-4cf3-95e9-8cd14174a958.png)
+
+<details>
