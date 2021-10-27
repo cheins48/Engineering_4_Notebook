@@ -80,6 +80,19 @@ similar to the first calculator assignment, I had to go through a small period o
 
   </details>
   
+  <details><summary>Hangman(MSP)</summary>
+  
+  I TOTALLY did this assignment (SARCASM).  this project was pretty complicated, which is why I TOTALLY did it (SARCASM).  We had to make a game of hangman entirly localized within python,  this had many hurdles I didnt cross,  making the hangman, analizing every character, and displaying the hangman, word, and missed charcters to name a few.
+ the program should work as follows;  the game diplays "player 1, enter your word."  player one enters their word, and then proptly leaves as they dont do anything else.  THE PROGRAM MUST DELETE THE WORD BEFORE PLAYER 2 CAN SEE IT!  than the program shows the following graphic.
+  
+  ![image](https://user-images.githubusercontent.com/57536671/139086477-047ff8b4-bbe0-43aa-aecc-f305f6a547a0.png)
+  
+  if player 2 guesses a wrong charecter than an additinal body part should appear on jeremy (his name) and if are a spicy boy, than a list of missed charcter should appear. like so:
+  
+  ![image](https://user-images.githubusercontent.com/57536671/139086513-02f2a4e8-f0c8-4cac-9e4e-319e47dafeb7.png)
+
+  </details>
+  
   <details><summary>Skamtbord</summary>
   
   In this assignment we were tasked with creating a stakeboard from the instructions of a virtual dr. shields.  I never felt too challenged with this skateboard as we had really in depth intructiuons from our cyberghost friend. it was rather relaxing, a similar experience to building a lego set. 
