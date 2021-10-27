@@ -91,6 +91,8 @@ similar to the first calculator assignment, I had to go through a small period o
   
   ![image](https://user-images.githubusercontent.com/57536671/139086513-02f2a4e8-f0c8-4cac-9e4e-319e47dafeb7.png)
 
+  
+  the miller man has graciously given me these images
   </details>
   
   <details><summary>Skamtbord</summary>
