@@ -52,7 +52,7 @@ This assignment gave me a rude awakening that I probably should have payed more 
 
 ### Assignment Description
 
-in this assingment we were tasked with creating a quadratic calculator in python.  the user types in A,B, and C, and the function "def QuadCalc" does the heavy lifting.
+in this assingment we were tasked with creating a quadratic calculator in python.  the user types in A,B, and C and the calculator finds all the possible answers.
 
 ### Evidence 
 
