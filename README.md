@@ -80,4 +80,5 @@ similar to the first calculator assignment, I had to go through a small period o
 
   </details>
   
-  
+  ![image](https://user-images.githubusercontent.com/57536671/139074585-23d387d7-4d63-4781-bdf5-32b7a2788c5e.png)
+
