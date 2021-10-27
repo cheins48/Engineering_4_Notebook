@@ -82,10 +82,18 @@ similar to the first calculator assignment, I had to go through a small period o
   
   <details><summary>Skamtbord</summary>
   
+  In this assignment we were tasked with creating a skateboard from the instructions of a virtual dr. shields.  I never felt too challenged with this skateboard as we had really in depth intructiuons from our cyberghost friend. it was rather relaxing, a similar experience to building a lego set. 
+  
   ![image](https://user-images.githubusercontent.com/57536671/139074585-23d387d7-4d63-4781-bdf5-32b7a2788c5e.png)
+  
+  this skateboard is beutiful.
   
 ![image](https://user-images.githubusercontent.com/57536671/139075293-0b2add71-814f-4dfe-8459-2f2e1cdc0550.png)
 
+  the trucks were the most fun to make.  the process of entirely remodeling the trucks was pretty fun
+  
 ![image](https://user-images.githubusercontent.com/57536671/139075344-a6c4f639-0d57-4cf3-95e9-8cd14174a958.png)
+  
+  the wheels I started to get a little board, so I went on a journey making my own skate company named "indestructable" and wanted to put the name on the wheels.  the issue I ran into was fgetting the text to be in a circular pattern, so I learned how to import a text editing tool from the onshape public library called "surface text." I had never realized before doing this how usful these tools that other people made in onshape can be, I really felt that my skill grew after making indestructable. 
 
 <details>
