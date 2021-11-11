@@ -1,5 +1,7 @@
 # Engineering_4_Notebook
 
+ <details><summary>Python</summary>
+
 <details><summary>Calculator</summary>
   
 ### Calculator
@@ -94,7 +96,9 @@ similar to the first calculator assignment, I had to go through a small period o
   
   the miller man has graciously given me these images
   </details>
+   </details>
   <details><summary>CAD</summary>
+  
   <details><summary>Skamtbord</summary>
   
   In this assignment we were tasked with creating a stakeboard from the instructions of a virtual dr. shields.  I never felt too challenged with this skateboard as we had really in depth intructiuons from our cyberghost friend. it was rather relaxing, a similar experience to building a lego set. 
