@@ -119,6 +119,5 @@ similar to the first calculator assignment, I had to go through a small period o
 <details><summary>Lemgo</summary>
  
  This assignment was far from hard, but it was certainly tedious, as i type this i feel my braincelss disintegrating.  i learned about configurations, which is something i wish i knew for the swing arm assignment.  the ability to create multiple variants of one part is a powerful tool that im certainly going to use again.
-  https://github.com/cheins48/Engineering_4_Notebook/blob/main/Capture.PNG?raw=true
-
+![image](https://user-images.githubusercontent.com/57536671/141320017-63348ec0-3761-410c-a2e1-e55c6741cb44.png)
 </details>
