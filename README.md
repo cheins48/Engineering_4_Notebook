@@ -96,6 +96,9 @@ similar to the first calculator assignment, I had to go through a small period o
   
   the miller man has graciously given me these images
   </details>
+  <details><summary>RPi GPIO Pin introduction</summary>
+   
+   </details>
    </details>
   <details><summary>CAD</summary>
   
