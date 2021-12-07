@@ -98,6 +98,8 @@ similar to the first calculator assignment, I had to go through a small period o
   </details>
   <details><summary>RPi GPIO Pin introduction</summary>
    
+   In this assignment we were tasked with making two LED lights switch on and off after eachother.  We had to write and run the code entirly within a raspberry pi.  I went through about three PI's desperatley trying to get github, Python, and the T-cobbler to work.  Normally i struggle the most with getting the code itself to work, but the simple function of this assignment made it so i didnt have to spend more than half an hour on it.  the challenge most certainly lay in getting the hardwar to work.
+   
    ```python3
 import RPi.GPIO as GPIO 
 from time import sleep
