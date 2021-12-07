@@ -17,5 +17,4 @@ while True:
         sleep(.5)
         GPIO.output(LED_pin_Red, GPIO.LOW)
         GPIO.output(LED_pin_Green, GPIO.HIGH)
-        sleep(.5
-)
+        sleep(.5)
