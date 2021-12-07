@@ -122,7 +122,7 @@ while True:
         GPIO.output(LED_pin_Green, GPIO.HIGH)
         sleep(.5)
   ```
-   
+   ![image](https://github.com/cheins48/Engineering_4_Notebook/blob/main/20211207_095841.jpg?raw=true)
    </details>
    </details>
    
