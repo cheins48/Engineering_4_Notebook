@@ -195,7 +195,7 @@ while True:
         restart()
    
    ```
-    </details>
+ </details>
      
      
   <details><summary>CAD</summary>
