@@ -130,6 +130,76 @@ while True:
    
   <details><summary>CAD</summary>
   
+  <details><summary>RPi GPIO Pin introduction</summary>
+   
+   
+   this assignment was easy because miller man did it for me.  basically we had to make a button that safely shuts down our Raspberry PI without having to type the command "sudo shutdown -h now." unfortunatley i have been struggling for weeks with connecting to github, why? the only logical explanation is that github has gained sentiance like the termainator and has made it their soul goal to not work no matter what computor, SD card, PI.
+   ```python3
+   # safe_restart_shutdown_interrupt_Pi.py
+#
+# Raspberry Pi Safe Restart and Shutdown Python Script
+# WRITTEN BY: Matthew Miller @ CHS
+# MODIFIED: 11/30/2021
+# DESCRIPTION: This python script uses a button to safely
+# reboot/shutdown your RPi. A momentary press reboots the pi,
+# holding the button shuts the RPi down. 
+#
+# Based on code from the following tutorial:
+#https://learn.sparkfun.com/tutorials/
+#raspberry-pi-safe-reboot-and-shutdown-button/all
+#-------------------------------------------------
+import time
+import RPi.GPIO as GPIO 
+# Pin definition
+reset_shutdown_pin = 26
+# Suppress warnings
+GPIO.setwarnings(False)
+# Use "GPIO" pin numbering
+GPIO.setmode(GPIO.BCM)
+# Use built-in pullup resistor so the pin is not floating
+GPIO.setup(reset_shutdown_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+# modular function to restart Pi
+def restart():
+    print("restarting Pi")
+    command = "/usr/bin/sudo /sbin/shutdown -r now"
+    import subprocess
+    process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
+    output = process.communicate()[0]
+    print(output)
+# modular function to shutdown Pi
+def shut_down():
+    print("shutting down")
+    command = "/usr/bin/sudo /sbin/shutdown -h now"
+    import subprocess
+    process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
+    output = process.communicate()[0]
+    print(output)
+while True:
+    #short delay, to reduce computational requirements
+    time.sleep(0.5)
+    # wait for a button press with switch debounce
+    channel = GPIO.wait_for_edge(reset_shutdown_pin, GPIO.FALLING, bouncetime=200)
+    if channel is None:
+        print('Timeout occurred')
+    else:
+        print('Edge detected on channel', channel)
+        # For troubleshooting, uncomment this line
+        #print('GPIO state is = ', GPIO.input(reset_shutdown_pin))
+        counter = 0
+        while GPIO.input(reset_shutdown_pin) == False:
+            # For troubleshooting, uncomment this line to view the counter
+            #print(counter)
+            counter += 1
+            time.sleep(0.5)
+            # long button press
+            if counter > 4:
+                shut_down()
+        #if short button press, restart!
+        restart()
+   
+   ```
+    </details>
+     
   <details><summary>Skamtbord</summary>
   
   In this assignment we were tasked with creating a stakeboard from the instructions of a virtual dr. shields.  I never felt too challenged with this skateboard as we had really in depth intructiuons from our cyberghost friend. it was rather relaxing, a similar experience to building a lego set. 
