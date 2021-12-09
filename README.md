@@ -127,7 +127,7 @@ while True:
    ![image](https://github.com/cheins48/Engineering_4_Notebook/blob/main/20211207_095841.jpg?raw=true)
    </details>
  
-  <details><summary>RPi GPIO Pin introduction</summary>
+  <details><summary>Shutdown Button</summary>
    
    
    this assignment was easy because miller man did it for me.  basically we had to make a button that safely shuts down our Raspberry PI without having to type the command "sudo shutdown -h now." unfortunatley i have been struggling for weeks with connecting to github, why? the only logical explanation is that github has gained sentiance like the termainator and has made it their soul goal to not work no matter what computor, SD card, PI.
@@ -199,7 +199,8 @@ while True:
      
      
   <details><summary>CAD</summary>
-     
+    
+   
   <details><summary>Skamtbord</summary>
   
   In this assignment we were tasked with creating a stakeboard from the instructions of a virtual dr. shields.  I never felt too challenged with this skateboard as we had really in depth intructiuons from our cyberghost friend. it was rather relaxing, a similar experience to building a lego set. 
@@ -222,4 +223,5 @@ while True:
  This assignment was far from hard, but it was certainly tedious, as i type this i feel my braincelss disintegrating.  i learned about configurations, which is something i wish i knew for the swing arm assignment.  the ability to create multiple variants of one part is a powerful tool that im certainly going to use again.
 ![image](https://user-images.githubusercontent.com/57536671/141320017-63348ec0-3761-410c-a2e1-e55c6741cb44.png)
 </details>
-</details>
+
+ </details>
