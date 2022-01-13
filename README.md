@@ -13,6 +13,7 @@ In this assignment we were tasked with creating a program that can succsessfully
 ### Evidence 
 
 ```python3
+ 
  def doMath(a,b,c):
    #do the actual calc here and return
     if c == 1:
@@ -44,7 +45,8 @@ print("Modulo:\t\t" + doMath(a,b,5))
 ### Reflection
 
 This assignment gave me a rude awakening that I probably should have payed more attention in online schooling last year, relearning basic things such as what a function is comes to mind (a function being a "named section of code that performs a specific task").  In hindsight it was rather easy as the "DoMath" function was doing most of the heavy lifting. however, DoMath was both our geatest asset, but our greatest hinderance, as the catch of the assignment was to create the entire calculator using ONLY the DoMath function.
-  
+ ``` 
+ 
 </details>
 
 
