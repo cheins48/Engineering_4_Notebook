@@ -134,7 +134,7 @@ while True:
    
    
    this assignment was easy because miller man did it for me.  basically we had to make a button that safely shuts down our Raspberry PI without having to type the command "sudo shutdown -h now." unfortunatley i have been struggling for weeks with connecting to github, why? the only logical explanation is that github has gained sentiance like the termainator and has made it their soul goal to not work no matter what computor, SD card, PI.
-   ```python3
+   ```python
    # safe_restart_shutdown_interrupt_Pi.py
 #
 # Raspberry Pi Safe Restart and Shutdown Python Script
@@ -265,6 +265,7 @@ while True:
   
   
   </details> 
+
 </details>   
      
   <details><summary>CAD</summary>
