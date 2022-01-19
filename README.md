@@ -103,7 +103,7 @@ similar to the first calculator assignment, I had to go through a small period o
    
    In this assignment we were tasked with making two LED lights switch on and off after eachother.  We had to write and run the code entirly within a raspberry pi.  I went through about three PI's desperatley trying to get github, Python, and the T-cobbler to work.  Normally i struggle the most with getting the code itself to work, but the simple function of this assignment made it so i didnt have to spend more than half an hour on it.  the challenge most certainly lay in getting the hardware to work.
    
-   '''python3
+   ```python3
   
 import RPi.GPIO as GPIO 
 from time import sleep
@@ -125,7 +125,7 @@ while True:
         GPIO.output(LED_pin_Red, GPIO.LOW)
         GPIO.output(LED_pin_Green, GPIO.HIGH)
         sleep(.5)
-  '''
+  ```
    
    ## wiring
    ![image](https://github.com/cheins48/Engineering_4_Notebook/blob/main/20211207_095841.jpg?raw=true)
